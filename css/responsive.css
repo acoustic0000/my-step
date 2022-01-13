@@ -43,6 +43,13 @@
     .btn {
         display: none;
     }
+    #about {
+    background-image: url(../images/about.jpeg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: 100% 40%;
+}
     /*------ハンバーガーメニュー--------*/
 
     #hamburger {
