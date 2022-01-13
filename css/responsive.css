@@ -49,7 +49,14 @@
     background-position: center top;
     background-attachment: fixed;
     background-size: 100% 40%;
-}
+    }
+    #contact {
+    background-image: url(../images/message.jpeg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: 100% 40%;
+    }
     /*------ハンバーガーメニュー--------*/
 
     #hamburger {
