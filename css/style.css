@@ -62,10 +62,16 @@ header {
     padding-bottom: 3px;
     text-decoration: none;
 }
+#skill .global-nav li a {
+    color: #ffffff;
+}
+#skill .global-nav li a:hover {
+    border-bottom: 2px solid #ffffff;
+}
 #wrap {
     clear: both;
     background-color: #ffffff;
-    margin-top: 100px;
+    margin-top: 150px;
     padding: 35px 0;
 }
 .content {
