@@ -43,6 +43,10 @@
     .btn {
         display: none;
     }
+    #wrap {
+    margin-top: 50px;
+    padding: 0px;
+    }
     /*------ハンバーガーメニュー--------*/
 
     #hamburger {
