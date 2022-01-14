@@ -68,7 +68,11 @@
         background: #333333;
         content: "";
         transition: all 0.5s;
-
+    }
+    #skill label .burger::before,
+    #skill label .burger::after,
+    #skill label .burger .bar {
+        background: #ffffff;
     }
     label .burger::before {
         top: 0;
